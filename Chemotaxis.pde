@@ -1,8 +1,4 @@
 Min[] blue,red,yellow;
-double dis = 0;
-double  minBlueDistance = 500;
-double minYellowDistance = 500;
-double minRedDistance = 500;
 void setup(){
   size (500,500);
   blue = new Min [100];
